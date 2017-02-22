@@ -9,7 +9,7 @@ To run in full DApp mode, the user need a computer with a synced Ethereum node a
 The DApp will get the data and sign the transaction by using the local node and wallet.
 ![full DApp](https://vote-on-ethereum.github.io/Concept/src/fulldApp.svg)
 
-To try it, you can use [Mist wallet and browser](https://github.com/ethereum/mist). Go to https://vote-on-ethereum.github.io/App-Basic with a **fully synced Testnet Mist browser**. Click on the **Connect** button on the top right of the window and select your account and click **Authorize**. Now enter a name in the **Vote as** textfield and click on a **Vote for** button. Mist will prompt a window asking to execute a contract. Enter your account password and **Send transaction**. The DApp should now send the transaction to the blockchain for about 1 minute. When done, your vote should appear in the voters list (check with the hash) and add +1 to your favorite person!
+To try it, you can use [Mist wallet and browser](https://github.com/ethereum/mist). Go to https://vote-on-ethereum.github.io/Hybrid-DApp-Basic with a **fully synced Testnet Mist browser**. Click on the **Connect** button on the top right of the window and select your account and click **Authorize**. Now enter a name in the **Vote as** textfield and click on a **Vote for** button. Mist will prompt a window asking to execute a contract. Enter your account password and **Send transaction**. The DApp should now send the transaction to the blockchain for about 1 minute. When done, your vote should appear in the voters list (check with the hash) and add +1 to your favorite person!
 
 ## Light DApp
 
@@ -19,7 +19,7 @@ That means, **anyone can use a DApp and interact with it without having anything
 
 ![light DApp](https://vote-on-ethereum.github.io/Concept/src/hybriddApp.svg)
 
-To try it, simply go to https://vote-on-ethereum.github.io/App-Basic with a classic web browser and let the magic happen.
+To try it, simply go to https://vote-on-ethereum.github.io/Hybrid-DApp-Basic with a classic web browser and let the magic happen.
 
 ## Technical explanation
 
